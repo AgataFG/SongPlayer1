@@ -40,6 +40,8 @@ public class MainActivity extends AppCompatActivity {
             public void onClick(View view) {
 
                 mediaPlayer.stop();
+                int i = 1;
+                //comment - test github
             }
         });
 
